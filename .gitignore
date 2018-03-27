@@ -6,12 +6,6 @@
 .idea
 *.iml
 .idea/
-activity-api/activity-api.iml
-activity-collection.iml
-activity-common/activity-common.iml
-activity-dao/activity-dao.iml
-activity-service/activity-service.iml
-activity-web/activity-web.iml
-workspace.xml
+.idea/workspace.xml
 out
 gen
